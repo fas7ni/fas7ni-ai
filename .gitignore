@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+
+.vscode/
+
+*full_prototypical_model*.pth
+
+train/
+
+test/
